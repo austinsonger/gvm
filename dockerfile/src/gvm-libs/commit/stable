@@ -1,1 +1,1 @@
-COMMIT="42ec7d72aee03315fdca9edd832e37a0e2bd0e96" # branch: gvm-libs-11.0
+RELEASE_URL="https://github.com/greenbone/gvm-libs/archive/v20.8.0.tar.gz"
